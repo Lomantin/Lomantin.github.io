@@ -1,36 +1,42 @@
-HTML CSSResult Skip Results Iframe
-EDIT ON
+
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
-  background-color: #000;
+  background-color: rgb(36, 253, 7);
 }
 
 p {
   margin: 40px auto;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 70px;
+  font-size: 85px;
   font-weight: bold;
   text-align: center;
-  letter-spacing: 5px;
+  letter-spacing: 1px;
 }
 
 #shadow1 {
-  color: #fff;
+  color: #e5ff00;
+
+text-shadow: 0 2px 2px #d0ff00, 
+      -2px 5px 1px #cbcbcb,
+      -4px 8px 1px #979797, 
+      -6px 11px 1px #a2a2a2, 
+      -8px 14px 1px #aeaeae, 
+      -10px 17px 1px #b5b5b5, 
+      -12px 20px 1px #bebebe, 
+      -14px 23px 1px #cecece, 
+      -16px 26px 1px #dbdbdb, 
+      -18px 29px 1px #dfdfdf
+}
+
+#shadow2 {
+  color: rgb(255, 0, 255);
 
 text-shadow: 3px 3px 20px #ff99cc,
     -2px 1px 30px #ff99cc;
 }
 
-#shadow2 {
-  color: #1b8811;
-
-text-shadow: 10px 10px 25px rgb(26, 158, 92),
-    -10px 10px 25px rgb(3, 141, 37),
-    -10px -10px 25px rgb(114, 190, 51),
-    10px -10px 25px rgb(14, 143, 89);
-}
-
 
 
 Resources1× 0.5× 0.25×Rerun
+
